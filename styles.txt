@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Online Book Store</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+<h1>Online Book Store</h1>
+<p>paragraph</p>
+<hr size=1>
+<h2>Category</h2>
+<ul>
+  <li><a href="https://www.goodreads.com/genres/horror">Horror</a></li>
+  <li><a href="https://www.amazon.in/History-Books/b?node=4149493031">History</a></li>
+  <li><a href="https://www.trendymami.com/the-best-cookbooks-of-all-time/?keyword=best%20cookbooks&utm_source=bing&utm_medium=cpc&utm_campaign=India%20Traffic&utm_term=best%20cookbooks&utm_content=The%20Best%20Cookbooks%20Of%20All%20Time">Cooking</a></li>
+</ul>
+<hr>
+<h2>Horror</h2>
+<hr>
+<img src="https://tse4.mm.bing.net/th?id=OIP.krVQVrmzGmUt84wnbniMqAHaLM&pid=Api&P=0 " alt="horror"
+<table cellspacing="100">
+      <tr>
+          <td>
+              <a href="https://shop.teatrosancarlo.it/en/home/176-catalogo-mostra-pret-a-parterre-di-moda-in-modi-al-san-carlo.html"><img src="/Users/fardeenfoda73gmail.com/Downloads/WEB college/book1.jpeg" alt=""></a>
+          </td>
+          <td>
+              <h1><pre><em>Exhibition catalog</em><br>Prêt à parterre: fashion in ways at the San Carlo"</pre></h1>
+              <h2>PRICE:200$</h2>
+          </td>
+      </tr>
+      <tr>
+          <td>
+              <a href="https://www.bookswagon.com/book/time-machine/9788175992955" ><img src="/Users/fardeenfoda73gmail.com/Downloads/WEB college/book2.jpeg" alt="" height="450" width="380"></a>
+              <td>
+                  <h1><pre><em>Exhibition catalog</em><br>Prêt à parterre: fashion in ways at the San Carlo"</pre></h1>
+                  <h2>PRICE:200$</h2>
+              </td>
+
+          </td>
+      </tr>
+</table>
+
+  </body>
+</html>
